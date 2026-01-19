@@ -24,7 +24,6 @@
     public static void Main(string[] args)
     {
         int m,n;
-        Console.WriteLine("Enter m and n : ");
         m=int.Parse(Console.ReadLine()!);
         n=int.Parse(Console.ReadLine()!);
 
@@ -39,6 +38,6 @@
             }
         }
 
-        Console.WriteLine("Count is : "+count);
+        Console.WriteLine(count);
     }
 }
