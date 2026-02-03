@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GCD/GCD.csproj" />
+  <Project Path="InventoryName/InventoryName.csproj" />
+  <Project Path="SortedArray/SortedArray.csproj" />
+  <Project Path="SumofPositiveIntegers/SumofPositiveIntegers.csproj" />
+</Solution>

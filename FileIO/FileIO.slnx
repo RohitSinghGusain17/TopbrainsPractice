@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FileIO/FileIO.csproj" />
+  <Project Path="NullValue/NullValue.csproj" />
+</Solution>

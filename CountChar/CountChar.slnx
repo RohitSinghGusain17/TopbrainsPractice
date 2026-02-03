@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CountChar/CountChar.csproj" />
+  <Project Path="CustomSorting/CustomSorting.csproj" />
+</Solution>
